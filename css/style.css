@@ -52,3 +52,10 @@ body{
     font-size: 1rem;
     color: #111;
 }
+
+.linktree__social--links .linktree__social--links__logo {
+    padding: 5px;
+    margin: 20px 25px;
+    background-color: #c4c4c4;
+    border-radius: 25%;
+}
